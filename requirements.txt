@@ -1,0 +1,3 @@
+moviepy
+customtkinter
+tkinterdnd2
