@@ -116,19 +116,12 @@ venv.bak/
 .mypy_cache/
 .dmypy.json
 dmypy.json
-
-# Pyre type checker
 .pyre/
-
 .pytype/
-
 cython_debug/
-.idea/
-
 .abstra/
 .vscode/
 .ruff_cache/
-
-.pypirc
+.idea/
 .cursorignore
 .cursorindexingignore
