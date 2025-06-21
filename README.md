@@ -2,8 +2,6 @@
 
 A simple desktop application built with Python, `customtkinter`, and `moviepy` to remove audio from video files. Supports drag-and-drop and batch processing.
 
-![screenshot](preview.png)
-
 ---
 
 ## 🧰 Features
